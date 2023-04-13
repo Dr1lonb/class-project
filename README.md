@@ -12,7 +12,7 @@ A landing/static website developed with HTML, CSS and JS. Is a static webpage, f
 - FIGMA
 
 
-## Screenshots
+## Website walk-through:
 
 <img width="948" alt="Screenshot 2023-04-13 212510" src="https://user-images.githubusercontent.com/116200199/231876375-6fcf7c2e-aa23-462b-9947-910256cff903.png">
 
