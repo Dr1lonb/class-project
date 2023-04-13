@@ -28,4 +28,5 @@ A landing/static website developed with HTML, CSS and JS. Is a static webpage, f
 
 <img width="945" alt="Screenshot 2023-04-13 212755" src="https://user-images.githubusercontent.com/116200199/231876875-0232041f-102d-4280-858f-a7aa0f859a16.png">
 
-<img width="372" alt="Screenshot_20221212_061436" src="https://user-images.githubusercontent.com/116200199/231876934-0dbc8a4e-c7a8-4ae9-9753-342a46fef6f6.png">
+<img width="947" alt="Screenshot 2023-04-13 223724" src="https://user-images.githubusercontent.com/116200199/231877364-e77ee29c-a433-48f4-bc91-f3fbc76a612b.png">
+
